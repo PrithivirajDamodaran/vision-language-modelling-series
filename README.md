@@ -1,7 +1,7 @@
 
 
 # Vision Language Modelling
-[A YouTube series](https://www.youtube.com/channel/UCCgQy6tY3yghpjX0axtQiJQ) 
+[Catch the videos on YouTube here](https://www.youtube.com/channel/UCCgQy6tY3yghpjX0axtQiJQ) 
 
 * ## **Season1**
  + [PyTorch versions]
